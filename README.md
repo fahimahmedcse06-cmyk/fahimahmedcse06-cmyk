@@ -16,10 +16,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## My Repositories
 
-- [cpp-program](https://github.com/fahimahmedcse06-cmyk/cpp-program) - my C++ practice
-- [my-first-c-program](https://github.com/fahimahmedcse06-cmyk/my-first-c-program) - my first C program
 
 ## Contact
 
